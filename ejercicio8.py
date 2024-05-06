@@ -1,4 +1,4 @@
-def ejercicio7():
+def ejercicio8():
     print(n)
     
     #Dados 2 números enteros, que representan una cantidad parcial y total se pide: Calcular e informar el porcentaje que representa la primera de la segunda. ¿Qué tipo de datos son los recomendados para este algoritmo?
