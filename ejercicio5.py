@@ -1,4 +1,4 @@
-def ejercicio4():
+def ejercicio5():
     print(n)
     
     #Se ingresa 3 números que representan horas, minutos y segundos. Se pide informar el resultado expresado en segundos. Determinar qué tipo de valor es el aconsejable para los datos solicitados
