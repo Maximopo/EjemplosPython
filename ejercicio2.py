@@ -1,10 +1,15 @@
 def ejercicio2():
-    print (n)
+    print(n)
+    
+    #Leer 4 números enteros, calcular la suma e informar el resultado.
+    
+def suma():
+    n1 = int(input("ingrese el primer número entero")) 
+    n2 = int(input("ingrese el segundo número entero"))
+    n3 = int(input("ingrese el tercer número entero")) 
+    n4 = int(input("ingrese el ultimo número entero"))
+    resultado = n1 + n2 + n3 + n4
 
-numero1 = 5
-numero2 = 6
-numero3 = 9
-numero4 = 12
-numero5 = numero1 + numero2 + numero3 + numero4
-if numero1 < numero2:
-    print(numero5)
+    print("el resultado es:", resultado)
+    
+suma()
