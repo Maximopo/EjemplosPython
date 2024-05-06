@@ -6,7 +6,7 @@ def multiplicacion():
     horas = int(input("ingrese las horas:")) 
     minutos = int(input("ingrese los minutos:"))
     segundos = int(input("ingrese los segundos:"))
-    resultado = horas *3600 + minutos *60 + segundos
+    resultado = horas *3600 + minutos *360 + segundos
     print("la cantidad de segundos totales son:", resultado)
 
 multiplicacion()
