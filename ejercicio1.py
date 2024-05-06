@@ -1,5 +1,10 @@
-numero1 = 5
-numero2 = 6
-numero3 = numero1 + numero2
-if numero1 < numero2:
-    print(numero3)
+
+
+def suma():
+numero1 = int(input("ingrese un número entero")) 
+numero2 = int(input("ingrese otro número entero")) 
+resultado = numero1 + numero2
+
+print ("el resultado es", resultado)
+
+suma()
