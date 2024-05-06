@@ -1,5 +1,5 @@
-lado1 = 5
-lado2 = 10
-superficie = lado1 * lado2
+ancho = 5
+largo = 10
+superficie = ancho * largo
 if lado1 < lado2:
     print(superficie)
