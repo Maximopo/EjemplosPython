@@ -5,7 +5,7 @@ def ejercicio5():
 def triangulo():
     base = int(input("ingrese las horas:")) 
     altura = int(input("ingrese los minutos:"))
-    if base & altura = int
+    if base & altura = int:
        superficie= base * altura
        print("la superficie del triangulo es:", superficie)
     
