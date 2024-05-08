@@ -5,13 +5,14 @@ def ejercicio9():
     
 def fecha():
     fecha = int(input("ingrese la fecha:" ))
-    año = fecha % 1000
-    mes = fecha / 10000
-    dia = fecha % 10000000
+    año = fecha % 10000
+    fecha = int (fecha / 10000)
+    mes = fecha % 100
+    fecha = int (fecha / 100)
+    dia = fecha 
     
     print("el año es:", año)
     print("el mes es:", mes)
     print("el dia es:", dia)
-    print("la fecha insertada es:", fecha)
     
 fecha()
