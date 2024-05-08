@@ -6,8 +6,8 @@ def triangulo():
     base = float(input("ingrese la base:")) 
     altura = float(input("ingrese la altura:"))
     
-    superficie= 0.25 * (base + altura)
-    print("la superficie del triangulo es:", superficie)
+    area = (base * altura) /2
+    print("la superficie del triangulo es:", area)
     print("es recomendable el valor float para las variables")
     
 triangulo()
