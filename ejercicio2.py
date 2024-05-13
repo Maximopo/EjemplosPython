@@ -1,6 +1,3 @@
-def ejercicio2():
-    print(n)
-    
     #Leer 4 números enteros, calcular la suma e informar el resultado.
     
 def suma():
