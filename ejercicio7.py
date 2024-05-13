@@ -1,7 +1,4 @@
-def ejercicio7():
-    print(n)
-    
-    #Dados 6 números reales, informar el promedio de los mismos.
+#Dados 6 números reales, informar el promedio de los mismos.
 def promedio():
     n1 = int(input("ingrese el primer numero:")) 
     n2 = int(input("ingrese el segundo numero:"))
