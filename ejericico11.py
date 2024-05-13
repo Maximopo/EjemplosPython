@@ -10,6 +10,8 @@ def ejercicio11():
             
     AUX = sum(autos)
     comision = AUX *0.05
-    salario = len(autos)
+    salario = len(autos) * 200
+    cobrar = 5500 + salario + comision
+    print ("el salario es: ", cobrar ,"pesos")
     
 ejercicio11()
